@@ -37,7 +37,9 @@ Diana DeGette won the overall election with 73.8% of all votes and a total of 27
 This script can easily be modified to run state and city elections. An example of the modified scripts would look something like these:
 
 State:
+
 ![image](https://user-images.githubusercontent.com/111472879/190318665-8fc1361a-d53f-424c-98d4-f8f335154cee.png)
 
 City:
+
 ![image](https://user-images.githubusercontent.com/111472879/190436980-735af5eb-2725-49f1-a0ee-8804f7572421.png)
